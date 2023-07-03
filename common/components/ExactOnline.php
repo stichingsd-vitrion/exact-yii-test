@@ -50,7 +50,7 @@ class ExactOnline
 
     }
 
-    public function getSubscription(): void
+    public function getSubscriptionLines(): void
     {
         $this->connectToExact();
 

@@ -37,7 +37,7 @@ class ExactTest extends Unit
         $exactOnline = new ExactOnline(true);
 
         /*The /unit/mocks/SyncSubscriptionLines.json should be returned as the HTTP response*/
-        $exactOnline->getSubscription();
+        $exactOnline->getSubscriptionLines();
 
         /*The /unit/mocks/SyncSubscriptionLines1.json and /unit/mocks/SyncSubscriptionLines2.json should be returned as the HTTP response*/
         $exactOnline->getSubscriptionLinesAsGenerator();
