@@ -1,0 +1,70 @@
+{
+  "d": {
+    "__next": "https://start.exactonline.nl/api/v1/12312312/sync/crm/Accounts?$skiptoken=fake-skip-token",
+    "results": [
+      {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/sync/crm/Accounts(7504947243L)",
+          "type": "Exact.Web.Api.Models.Sync.CRM.AccountSync"
+        },
+        "ID": "d073d753-476a-4ed7-ae6c-91532081e949"
+      },
+      {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/sync/crm/Accounts(7504947244L)",
+          "type": "Exact.Web.Api.Models.Sync.CRM.AccountSync"
+        },
+        "ID": "0e0869c5-460a-4398-b3fb-caa83d68f655"
+      },
+      {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/sync/crm/Accounts(7504947245L)",
+          "type": "Exact.Web.Api.Models.Sync.CRM.AccountSync"
+        },
+        "ID": "c4f3794f-2f55-4924-be3b-dc1ddc79f3aa"
+      },
+      {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/sync/crm/Accounts(7504947246L)",
+          "type": "Exact.Web.Api.Models.Sync.CRM.AccountSync"
+        },
+        "ID": "7299b49a-f757-4853-bffe-bee23ebfea03"
+      },
+      {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/sync/crm/Accounts(7504947247L)",
+          "type": "Exact.Web.Api.Models.Sync.CRM.AccountSync"
+        },
+        "ID": "240c66d9-dd09-4fb7-bff8-78cfa204e0ba"
+      },
+      {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/sync/crm/Accounts(7504947248L)",
+          "type": "Exact.Web.Api.Models.Sync.CRM.AccountSync"
+        },
+        "ID": "64c99541-2657-457f-bdb2-29d5d1576b1f"
+      },
+      {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/sync/crm/Accounts(7504947249L)",
+          "type": "Exact.Web.Api.Models.Sync.CRM.AccountSync"
+        },
+        "ID": "2651f12d-9500-44d2-b10e-bac75bd5db42"
+      },
+      {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/sync/crm/Accounts(7504947250L)",
+          "type": "Exact.Web.Api.Models.Sync.CRM.AccountSync"
+        },
+        "ID": "0b7af83e-c90d-428e-af5d-c582581aa30d"
+      },
+      {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/sync/crm/Accounts(7504947251L)",
+          "type": "Exact.Web.Api.Models.Sync.CRM.AccountSync"
+        },
+        "ID": "a63caedb-1c90-4e76-b5e0-97f50bc8fa16"
+      }
+    ]
+  }
+}

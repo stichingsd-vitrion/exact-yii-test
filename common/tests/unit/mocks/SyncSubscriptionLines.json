@@ -1,0 +1,215 @@
+{
+  "d" : {
+    "results": [
+      {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'41a0e7cb-3c88-4058-96fe-0a1837ca8298')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 4.89
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'fbcce5c6-503e-4875-9522-0ae6458769e2')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 1
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'823b33c2-cc64-4ab2-80b9-0e62accd6a41')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 75
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'c8064a18-a86c-495d-aae8-0fd9b3cae975')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 5
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'09cb948a-097d-47bf-8f83-1368a7e02967')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 9.95
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'd1ae74c9-0f4c-4670-8666-20e8dfa39902')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 15
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'cfe66d38-7a4d-492d-9d36-2c181059be83')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 135
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'cc8f73c7-ccb3-4923-a4c3-2c3cd38b1e49')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 15
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'8e4dc956-c5e2-4a1b-a7e8-2da54766bb70')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 5
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'1fb36cbd-e694-46aa-8b1c-38fd330fea0c')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 0
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'ad6ebd9e-43c6-4b22-9994-39aca415aa03')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 33
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'f82cee52-1533-4d2a-9ea7-4585baf5c233')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 3.79
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'476faac3-0958-430f-a116-4619fff51b7a')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 0
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'a8d771e1-4412-4136-afa7-4e1f7651db75')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 16
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'643d8691-9f71-487f-9958-4f3556be413c')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 42.5
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'09a378dc-bb4d-400a-a40e-58bc3ba9d9a3')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 42.5
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'09dc1c0e-45cb-4c7f-ab9e-685db0a5d731')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 13.95
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'107147d4-b2cf-44b7-9f06-761cea4ef848')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 5
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'f6c8a66b-63b1-464c-95f7-76ba69ffadfb')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 1
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'3e8fa995-899e-46b9-848a-7c682c6ba6a7')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 4.79
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'9538f44e-85c5-455c-8f64-7d262a0e745d')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 13.95
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'3cec72d2-a20c-49bc-9f5e-7e6177224395')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 9.95
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'efe7ec73-d055-4ea4-bb8a-812b30943196')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 16
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'95b6d514-611b-4708-8f67-813dd638ce00')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 13.95
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'cbdd6ed7-584c-4855-badc-81836415c141')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 0
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'15f0543d-5f4d-4227-8387-832fcc3251c9')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 33.33
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'bf7f5061-6c00-4fa8-9754-944beaa3ffa4')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 13.95
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'66d1f3a7-b210-435f-827e-9b208472f185')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 5
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'181fd662-6df9-49d4-b71c-a1660ee43ea6')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 2
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'f299e459-2f29-4035-8d67-a2123bf14872')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 9.95
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'9c6ec4f7-da90-4305-97c9-a4e7063b468d')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 0
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'c68c7762-4692-4fd8-987b-a719e8e8690f')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 33
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'6ea95eb1-7f9b-465f-9d5a-a77198423648')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 109
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'6dc20373-fca8-44e8-8863-ab4b44c45bac')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 0
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'5335115e-7e54-4136-b5ec-adb01a4a3131')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 64
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'0b1a4dab-8004-4039-8743-b1115d625932')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 135
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'494cf98d-6926-4dfc-9e1a-b3af362db13a')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 0
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'ca229f5e-b050-42b1-bd95-b3cdce06782d')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 109
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'319b22ce-8a2b-42a0-b429-b5f74e4fae82')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 64
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'547ebd25-db83-4476-9b8c-bf353650137b')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 9.95
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'b434b903-a971-4f3e-a025-c13b963b18e9')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 15
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'e82cb54c-17fa-47dc-9fdb-c7dec77f3b8d')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 16
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'81af9570-ce26-45a4-9f76-ccd54ce99493')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 1
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'179ce7d3-68f8-447a-83dd-cd6f461b0713')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 0
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'9f4c5b04-164b-4934-99ab-dbc08e288122')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 13.95
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'48598d85-8999-48fa-967e-dd23fcaa72d7')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 0
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'9e0d3604-3e93-403d-83b5-e604e8e90278')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 5
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'e9b9399d-4ef9-4690-bc1b-eedc41339bb0')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 75
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'ccc894b0-6ea3-4bb9-9eb6-f0dc6c6bc82b')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 9.95
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'aa267a47-b92b-47f0-a068-f31535f1c761')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 140
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'4c7aa904-b8c1-4f37-a972-f4673c154c98')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4f919032-a68d-41bb-b7fb-9f130b521b82", "UnitPrice": 5
+      }, {
+        "__metadata": {
+          "uri": "https://start.exactonline.nl/api/v1/12312312/subscription/SubscriptionLines(guid'3daacc3b-e29f-41bb-942d-fa6b9f2ebc3b')", "type": "Exact.Web.Api.Models.SubscriptionLine"
+        }, "EntryID": "4950c85b-7ea8-4695-9372-ab6d4a7ae1aa", "UnitPrice": 140
+      }
+    ]
+  }
+}
