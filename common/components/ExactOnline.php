@@ -8,7 +8,13 @@ use Picqer\Financials\Exact\SyncSalesInvoice;
 
 class ExactOnline
 {
+    public $testing = false;
     private Connection $connection;
+
+    public function __construct(bool $testing = false)
+    {
+        $this->testing = $testing;
+    }
 
     private function connectToExact(): void
     {

@@ -33,7 +33,8 @@ class ExactTest extends Unit
 
     public function testLoginNoUser(): void
     {
-        $exactOnline = new ExactOnline();
+        /*We dont have to mock exact online bcs we pass a testing true which will set us as "authenticatie" inside the exactonline class*/
+        $exactOnline = new ExactOnline(true);
 
         /*The /unit/mocks/SyncSubscriptionLines.json should be returned as the HTTP response*/
         $exactOnline->getSubscription();
